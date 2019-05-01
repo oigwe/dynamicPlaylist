@@ -348,6 +348,11 @@ header a, a:visited {
 	color: white;
 }
 
+.scroll {
+	overflow: scroll;
+	height: 500px;
+}
+
 #modal-header {
 	border: none;
 }
