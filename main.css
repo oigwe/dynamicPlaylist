@@ -37,6 +37,10 @@ input[type=search]{
 	width: 300px;
 	border-radius: 10px;
 }
+
+.close {
+	color: white;
+}
 header {
 	background-color:rgba(33, 33, 33, 0.9);
 	color:#ffffff;
@@ -228,10 +232,6 @@ header a, a:visited {
   transform: scale3d(1.1, 1.1, 1.1);
 }
 
-/*.demo-gallery > div > div a:hover .demo-gallery-poster > img {
-  opacity: 1;
-}*/
-
 .demo-gallery > div > div  .demo-gallery-poster {
   background-color: rgba(0, 0, 0, 0.1);
   bottom: 0;
@@ -304,3 +304,5 @@ header a, a:visited {
 #modal-header {
 	border: none;
 }
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/cursors/cur-7/cur686.cur), auto !important;} /* End http://www.cursors-4u.com */

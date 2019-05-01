@@ -33,7 +33,7 @@ const playlist = {
       name: "Main Title",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="200" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?&amp;start=182" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/xan7Rw6KZcM?start=182" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
@@ -174,7 +174,7 @@ const objectToHTML = (song) => {
         <div class="modal-dialog modal-dialog-centered" role="document">
          <div class="modal-content transparent">
             <div class="modal-header" id="modal-header">
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <button type="button close" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">&times;</span>
               </button>
             </div>
