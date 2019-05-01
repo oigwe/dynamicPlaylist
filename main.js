@@ -33,7 +33,7 @@ const playlist = {
       name: "Main Title",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/xan7Rw6KZcM?start=182" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/tI5s4PpmN5U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
