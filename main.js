@@ -47,14 +47,14 @@ const playlist = {
       name: "Total Logic",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="200" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=594" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/BHdyCw-Wz7Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Floating Office",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="200" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=819" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/jVxn_UwTmgc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
