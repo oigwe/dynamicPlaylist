@@ -1,3 +1,4 @@
+let counter = 0; 
 const imgArray = [
   'https://i2.wp.com/theimaginativeconservative.org/wp-content/uploads/2017/04/star-trek.jpg?ssl=1',
   'https://cdn.arstechnica.net/wp-content/uploads/2015/09/Star-Trek-640x478.png',
@@ -22,7 +23,8 @@ function imgRandom() {
 const playlist = {
   name: 'Soundtrack Star Trek',
   description: 'The Musical Soundtrack That Influenced A Generation',
-  songs: [{
+  songs: [
+    {
       name: "Ilia's Theme",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
@@ -152,12 +154,12 @@ const playlist = {
 };
 
 
-const objectToHTML = (song) => {
+const objectToHTML = (song, counter) => {
   const image = imgRandom()
   return `
   <div class='row mb-4 d-flex inline-flex'>
-        <div class='col offset-md-2'>
-      <button type="button" class="btn transparent" data-toggle="modal" data-target="#ModalCenter">
+    <div class='col offset-md-2'>
+      <button type="button" class="btn transparent" data-toggle="modal" data-target="#ModalCenter${counter}">
         <div class="demo-gallery">
          <div>
            <div class="video" data-poster=${image} style='width: 200px; height: 150px'>
@@ -170,7 +172,7 @@ const objectToHTML = (song) => {
         </div>
       </button>
 
-      <div class="modal fade" id="ModalCenter" tabindex="-1" role="dialog" aria-labelledby="ModalCenterTitle" aria-hidden="true">
+      <div class="modal fade" id="ModalCenter${counter}" tabindex="-1" role="dialog" aria-labelledby="ModalCenterTitle" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
          <div class="modal-content transparent">
             <div class="modal-header" id="modal-header">
@@ -184,7 +186,9 @@ const objectToHTML = (song) => {
           </div>
         </div>
       </div>
+
     </div>
+
     <div class='col mx-auto align-self-center'>
       <p class='mb-0 song-name'>${song.name}</p>
       <p class='song-artists'>${song.composer}</p>
@@ -207,7 +211,8 @@ const render = (playlist) => {
   let combinedHTML = '';
 
   for (let i = 0; i < playlist.songs.length; i++) {
-    combinedHTML += objectToHTML(playlist.songs[i]);
+    let counter = i;
+    combinedHTML += objectToHTML(playlist.songs[i], i);
   }
   song_list.innerHTML = combinedHTML;
   console.log(combinedHTML);
