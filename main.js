@@ -35,119 +35,119 @@ const playlist = {
       name: "Main Title",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=182" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=182" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Klingon Battle",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=269" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Total Logic",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=594" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=594" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Floating Office",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=819" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=819" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "The Enterprise",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=883" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=883" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Leaving Drydock",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1243" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1243" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Spock's Arrival",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1454" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1454" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "The Cloud",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1575" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1575" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Vejur Flyover",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1875" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=1875" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "The Force Field",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2174" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2174" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Games",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2478" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2478" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Spock Walk",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2700" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2700" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Inner Workings",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "Vejur Speaks",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=2960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "The Meld",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "A Good Start",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3563" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3563" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "End Titles",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="200" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?controls=0&amp;start=3710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     }
   ]
