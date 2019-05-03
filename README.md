@@ -9,6 +9,6 @@ https://oigwe.github.io/dynamicPlaylist/
 ## The Ask
 To dynamically populate a webpage, using a javascript object, so the user can see and search for all the songs in a playlist. 
 
-## Example Goal of the Ask:
+## Example Goal (provided by teaching staff):
 ![final](spotify_playlist_final.png)
 
