@@ -4,7 +4,7 @@
 https://oigwe.github.io/dynamicPlaylist/
 
 ## Preview
-![alt-text](img/playlistDemo.gif)
+![alt-text](playlistDemo.gif)
 
 ### The Ask
 To dynamically populate a webpage so the user can see and search for all the songs in a playlist using a javascript object. 
