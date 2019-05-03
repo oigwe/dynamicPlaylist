@@ -12,9 +12,6 @@ const imgArray = [
 function imgRandom() {
   for (let i = 0; i < 18; i++) {
     const rand = imgArray[Math.floor(Math.random() * imgArray.length)];
-    // const image = new Image();
-    // image.src = basePath+rand;
-    // document.body.appendChild(image);
     return rand
   }
   return rand
