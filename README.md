@@ -4,7 +4,6 @@
 https://oigwe.github.io/dynamicPlaylist/
 
 ## Preview
-![alt-text](playlistDemo.gif)
 ![alt-text](playlistDemoVid.gif)
 
 
