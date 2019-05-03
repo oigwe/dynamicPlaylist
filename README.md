@@ -3,7 +3,7 @@
 ## Live Page
 https://oigwe.github.io/dynamicPlaylist/
 
-##Preview
+## Preview
 ![](../assets/May-02-2019 21-30-26.gif)
 
 ### The Ask
