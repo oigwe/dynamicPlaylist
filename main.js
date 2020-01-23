@@ -27,7 +27,7 @@ const playlist = {
       name: "Ilia's Theme",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/Mj4z2Y1y2Ak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/ARcgqTx3NOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
@@ -125,28 +125,28 @@ const playlist = {
       name: "Vejur Speaks",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?start=2960" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/Jj66zKDm9rg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "The Meld",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?start=3374" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/LIIX3P6Whu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "A Good Start",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?start=3563" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/QLYlbJOlfIc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     },
     {
       name: "End Titles",
       album: "Star Trek: The Motion Picture",
       composer: ['Jerry Goldsmith'],
-      frame: `<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xan7Rw6KZcM?start=3710" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
+      frame: `<iframe width="560" height="315" src="https://www.youtube.com/embed/6YgRCF1e5A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
       info: "Label: Columbia/Legacy, Original Copyright: 1979 (All Rights Reserved)"
     }
   ]
